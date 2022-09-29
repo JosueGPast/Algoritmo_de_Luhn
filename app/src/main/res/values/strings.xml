@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Algoritmo de Luhn</string>
+    <string name="title">Algoritmo de Luhn: Numero Verificador</string>
+    <string name="action">Calcular Número</string>
+    <string name="action2">Numero Aleatorios</string>
+    <string name="empty"></string>
+    <string name="action3">Limpiar</string>
+    <string name="label1">Tus numeros de tarjeta son</string>
+    <string name="result">Suma</string>
+</resources>
